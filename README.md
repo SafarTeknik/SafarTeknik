@@ -1,7 +1,9 @@
 
+
 <div align="center">
-  <img src="https://placehold.co/1200x600/000000/FFFFFF.png?text=HELLO+WORLD&font=montserrat" width="100%" alt="Hello World"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001F3F,100:007BFF&height=350&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=FFFFFF&fontAlignY=50&animation=twinkling" width="100%" alt="Hello World"/>
 </div>
+
 
 ---
 
